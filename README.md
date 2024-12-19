@@ -5,6 +5,8 @@
 
 **TumorLytix** is a deep learning project that addresses the problem of brain tumor segmentation and detection using MRI images. The goal is to create a tool that accurately detects and segments brain tumors by integrating CycleGAN and diffusion models, even without labeled data. This method is designed to synthesize paired healthy-diseased images and use conditional guidance to enhance tumor segmentation accuracy.
 
+Project Report can be found here : [Unsupervised Brain Tumor Detection and Segmentation](https://drive.google.com/file/d/14-WbzAA4xyIgGnTkoz7ybBJ-dm_szl0c/view?usp=sharing)
+
 ### Team Members
 - Ankit Gole
 - Devesh Bhangale
